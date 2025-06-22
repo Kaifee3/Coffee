@@ -4,7 +4,7 @@ A responsive and modern Coffee Shop website built with React.js and Tailwind CSS
 
 ## 🌐 Live Demo
 
-[Click here to view the live site](https://your-deployment-link.com) *(replace with actual link)*
+[Click here to view the live site](coffeeshopbykaifee.netlify.app) *(replace with actual link)*
 
 ---
 
